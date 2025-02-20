@@ -7,7 +7,7 @@ import svelte from '@astrojs/svelte';
 
 export default defineConfig({
   site: 'https://NikoBorbe.github.io',
-  base: '/Stem-Notes',
+  base: '/github-pages',
 
   vite: {
     plugins: [tailwindcss()],
